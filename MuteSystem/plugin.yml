@@ -1,0 +1,12 @@
+name: MuteSystem
+main: Puma\MuteSystem\Main
+version: 0.5
+api: 3.5.2
+author: Puma
+commands:
+ mute:
+  description: "TeeGames - MuteSystem"
+  usage: "/mute <player> <reason>"
+ unmute:
+  description: "TeeGames - MuteSystem"
+  usage: "/unmute <player>"
